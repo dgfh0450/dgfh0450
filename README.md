@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Front-End :
-<img src="https://img.shields.io/badge/html-#E34F26?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/TEST1-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 
 <!--
 **dgfh0450/dgfh0450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
