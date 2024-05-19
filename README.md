@@ -3,11 +3,11 @@
 email : dgfh0450@gmail.com
 ---
 <h3>대외 활동</h3>
-<h5>1. SDP 학회 : FE 개발 (2022.11~2023.07)</h5>
+<h4>1. SDP 학회 : FE 개발 (2022.11~2023.07)</h4>
 <span>    </span>1.1 SASM WEB : <a href='https://www.sasm.co.kr/'>지속가능한 공간 큐레이팅 서비스 SASM</a> - FE 개발<br>
     1.2 SASM APP : <a href='https://apps.apple.com/kr/app/sasm/id6451327975'>SASM</a> - FE 개발 리드<br>
 <br>
-<h5>2. <b>KPMG 아이디어톤</b> : 서버 설정, FE 개발</h5>
+<h4>2. <b>KPMG 아이디어톤</b> : 서버 설정, FE 개발</h4>
     2.1 <a href='https://kpmgkr.notion.site/2024-KPMG-1fcd8a808f3d4f36a5ae8ad6e9bc413e'>2024 KPMG 아이디어톤</a> : 생성형 AI 모델을 활용한 기업업무 자동화 및 생산성 향상 아이디어와 프로토타입 구현<br>
 
 <br>
