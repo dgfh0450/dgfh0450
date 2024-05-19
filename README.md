@@ -3,7 +3,7 @@
 email : dgfh0450@gmail.com
 ---
 <h3>대외 활동</h3>
-<h6>1. <b>SDP 학회</b> : FE 개발 (2022.11~2023.07)</h6>
+<h6>1. SDP 학회 : FE 개발 (2022.11~2023.07)</h6>
 <span>    </span>1.1 SASM WEB : <a href='https://www.sasm.co.kr/'>지속가능한 공간 큐레이팅 서비스 SASM</a> - FE 개발<br>
     1.2 SASM APP : <a href='https://apps.apple.com/kr/app/sasm/id6451327975'>SASM</a> - FE 개발 리드<br>
 <br>
