@@ -23,20 +23,20 @@ email : dgfh0450@gmail.com
 <br>
 <br>
 
-<h3>⚡기술 스택</h3>
-- Language     : TypeScript,
-- UI           : Material UI,
-- CSS-in-JS    : styled-components,
-- boiler-plate : CRA,
+<h3>⚡기술 스택</h3><br>
+- Language     : TypeScript,<br>
+- UI           : Material UI,<br>
+- CSS-in-JS    : styled-components,<br>
+- boiler-plate : CRA,<br>
 <br>
-<h3>🤔사용 경험</h3>
-- Front-End : Redux,
-- Server    : Docker,
-- Back-End  : FastAPI, Flask
+<h3>🤔사용 경험</h3><br>
+- Front-End : Redux,<br>
+- Server    : Docker,<br>
+- Back-End  : FastAPI, Flask,<br>
 <br>
-<h3>🔭관심 분야</h3> 
-- Server Side Rendering : Next.js
-- WebGL : Three.js
+<h3>🔭관심 분야</h3><br>
+- Server Side Rendering : Next.js<br>
+- WebGL : Three.js<br>
 <!--
 **dgfh0450/dgfh0450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
